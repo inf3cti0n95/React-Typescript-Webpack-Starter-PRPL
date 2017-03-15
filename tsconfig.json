@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "jsx" : "react",
+    "typeRoots": [
+      "custom-types",
+      "node_modules/@types/*"
+    ],
+    "types" : ["node","es6-promise","react","react-dom","react-redux","redux","react-router","gsap"]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
