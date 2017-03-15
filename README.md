@@ -4,6 +4,7 @@ Webpack Starter with React, Typescript, SASS -  CodeSplitting, LazyLoading and T
 - [x] [Webpack 2.2](https://webpack.github.io)
 - [x] [React 15](https://facebook.github.io/react/)
 - [x] [Babel 6.x](https://babeljs.io/)
+- [x] [Typescript 2.2](https://typescriptlang.org/)
 
 ```
 npm install -g webpack webpack-dev-server typescript
